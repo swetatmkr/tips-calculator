@@ -1,2 +1,3 @@
 git status
-git
+git add filename
+git commit -m "read file added"
