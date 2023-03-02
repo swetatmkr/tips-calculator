@@ -9,3 +9,5 @@ to ignore file, we create .gitignore file and add name of the file
 git remote ----------- to check remote files
 git remote add origin https://github.com/swetatmkr/web-dev-practice.git -----------to add remote
 git push origin master ----------to upload code to remote
+git checkout master ------------switch to master branch
+git branch "css-foundation" ----------creates new branch
