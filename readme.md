@@ -14,3 +14,4 @@ git branch  ---------to list branch
 git checkout "css-foundations"  --------to checkout branch
 git add . ---------to add all files
 git checkout css-foundations
+from source control commit all, type "service pages created" ,publish
